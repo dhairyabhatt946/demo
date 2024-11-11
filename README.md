@@ -1,4 +1,4 @@
 # demo
-This is a demo repository.
+This is a demo repository to learn about Git and Github.
 <br>
-Author - Dhairya Bhatt
+Author - Dhairya Bhatt (Darshan University)
